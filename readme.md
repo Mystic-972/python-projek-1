@@ -23,7 +23,7 @@ After every incorrect guess, the game tells the player whether the secret number
 - High score tracking
 - Play multiple rounds
 
-## 🛠 Requirements
+## Requirements
 
 - Python 3.x
 
